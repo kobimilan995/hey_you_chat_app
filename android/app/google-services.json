@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120578851122",
+    "firebase_url": "https://flutter-hey-you.firebaseio.com",
+    "project_id": "flutter-hey-you",
+    "storage_bucket": "flutter-hey-you.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120578851122:android:71e9a02237bb008ebed72b",
+        "android_client_info": {
+          "package_name": "com.kobicarr.hey_you_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120578851122-8vj283iokd5q0dniteb5dm4d2lhd4pmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1EoFLlv9-S30Nu5stvJ3P92wK_KfhyJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120578851122-8vj283iokd5q0dniteb5dm4d2lhd4pmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
